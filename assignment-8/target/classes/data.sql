@@ -1,0 +1,5 @@
+insert into tbl_Userdata(DATE, DATEOFBIRTH, EMAIL, PHONE_NO, TIME, USERNAME) values('2023-02-01', '14-06-2001','ankush@gmail.com','9870811484','12:40:00','Ankush Savita');
+insert into tbl_Userdata(DATE, DATEOFBIRTH, EMAIL, PHONE_NO, TIME, USERNAME) values('2022-02-10', '15-10-1999','aditya@gmail.com','9454709476','10:30:57','Aditya Verma');
+insert into tbl_Userdata(DATE, DATEOFBIRTH, EMAIL, PHONE_NO, TIME, USERNAME) values('2021-10-11', '20-06-1997','sheetal@gmail.com','7045779457','02:15:30','Sheetal Shakya');
+insert into tbl_Userdata(DATE, DATEOFBIRTH, EMAIL, PHONE_NO, TIME, USERNAME) values('2020-08-01', '10-09-2003','ananya@gmail.com','6356390759','06:45:00','Ananya Gupta');
+insert into tbl_Userdata(DATE, DATEOFBIRTH, EMAIL, PHONE_NO, TIME, USERNAME) values('2022-10-01', '01-12-2000','aman@gmail.com','7948696680','08:00:00','Aman Agrawal');
